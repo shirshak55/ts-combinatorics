@@ -1,6 +1,6 @@
 {
   "name": "ts-combinatorics",
-  "version": "1",
+  "version": "1.0.0",
   "description": "Simple combinatorics like power set, combination, and permutation in JavaScript",
   "main": "dist/main.js",
   "types": "dist/main.d.ts",
