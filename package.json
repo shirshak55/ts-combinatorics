@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Simple combinatorics like power set, combination, and permutation in JavaScript",
   "main": "dist/main.js",
-  "types": "dist/main.d.ts",
+  "typings": "dist/main.d.ts",
   "devDependencies": {
     "@types/node": "^14.14.16",
     "chai": "^4.2.0",
